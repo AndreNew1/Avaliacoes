@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\bin\Debug\netcoreapp2.1\CalculadoraR.deps.json
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\bin\Debug\netcoreapp2.1\CalculadoraR.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\bin\Debug\netcoreapp2.1\CalculadoraR.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\bin\Debug\netcoreapp2.1\CalculadoraR.dll
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\bin\Debug\netcoreapp2.1\CalculadoraR.pdb
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.dll
+C:\Users\Treinamento 2\source\repos\CalculadoraR\CalculadoraR\obj\Debug\netcoreapp2.1\CalculadoraR.pdb

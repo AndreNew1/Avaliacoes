@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\bin\Debug\netcoreapp2.1\Avaliacao2.deps.json
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\bin\Debug\netcoreapp2.1\Avaliacao2.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\bin\Debug\netcoreapp2.1\Avaliacao2.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\bin\Debug\netcoreapp2.1\Avaliacao2.dll
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\bin\Debug\netcoreapp2.1\Avaliacao2.pdb
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.dll
+C:\Users\Treinamento 2\source\repos\Avaliacao2\Avaliacao2\obj\Debug\netcoreapp2.1\Avaliacao2.pdb
